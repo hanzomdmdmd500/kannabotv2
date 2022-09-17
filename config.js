@@ -62,7 +62,7 @@ global.psaweria = '-'
 global.nomorbot = '6281336990781'
 global.nomorown = '6287841667091'
 global.namebot = 'Hanzo BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nameown = 'HANZO'
 
 
 /*============== STAFF ==============*/
