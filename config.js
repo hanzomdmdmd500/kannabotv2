@@ -70,7 +70,7 @@ global.owner = [
   ['6287841667091'],
   ['6287841667091'],
   ['6287841667091'],
-  ['6287841667091', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6287841667091', 'Hanzo-JB', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
